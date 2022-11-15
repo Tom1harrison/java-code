@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>小米商城</title>
+</head>
+<body>
+<p align="center">
+    <a href="#et1" title="图片跳转">123</a>
+    <a href="tell:13103477360">打电话</a>
+    <a href="sms:?body=短信发送内容">  发送短信：13645869779</a>
+
+</p>
+<br>
+<br>
+<br>
+
+<a name="et1"><img src="./(13)(1).jpg" alt="图片加载错误"   usemap="#MAP"></a>
+<map name="MAP">
+    <area shape="circle" coords="336,201,100" href="#et3" alt="封原万叶">
+</map>
+
+
+<p></p>
+<br>
+<br>
+<br>
+<br>
+<h2 align="left"><a name="et3">遗失的浪人</a></h2>
+</body>
+</html>
